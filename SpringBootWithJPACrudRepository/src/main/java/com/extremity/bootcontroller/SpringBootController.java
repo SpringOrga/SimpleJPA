@@ -23,7 +23,7 @@ public class SpringBootController {
 	@RequestMapping("/")
 	public String welcome()
 	{
-		//first landing page..123
+		//first landing page..123456
 		System.out.println("index page...");
 		return "index";
 	}
